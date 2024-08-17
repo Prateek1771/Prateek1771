@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prateek1771
+- 👋 Hi, I’m Prateek Hitli
 - 👀 I’m interested in creating eye catching websites
-- 🌱 I’m currently learning express.js
+- 🌱 I’m currently learning AWS Cloud
 - 💞️ I’m looking to collaborate on frontend development field
 - 📫 How to reach me [gmail: hitliprateek6@gmail.com] [linkedin: prateek hitli]
 
