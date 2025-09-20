@@ -5,7 +5,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently pursuing **B.E. in Artificial Intelligence & Machine Learning** (Coorg Institute of Technology, 2025).
+- 🌱 Completed **B.E. in Artificial Intelligence & Machine Learning** (Coorg Institute of Technology, 2025).
 - ⚡ Skilled in **React.js, Next.js, Node.js, Express.js, Tailwind CSS, MongoDB**, and **PostgreSQL**.
 - 🤝 Strong interest in **AI-powered applications**, including **LangChain, TensorFlow**, and building AI agents.
 - 🎯 Goal: Build **real-time, scalable systems** with modern tech stacks while contributing to open-source.
