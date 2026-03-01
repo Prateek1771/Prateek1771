@@ -30,38 +30,8 @@ Git, GitHub, Docker, Figma
 
 ---
 
-## 🚀 Featured Projects
-
-### [Talent-Meet](https://github.com/Prateek1771/talent-meet.git)
-Real-time coding interview platform with:
-- Video conferencing, screen sharing, and live coding assessments.
-- **Convex** for real-time data updates and **Clerk** for secure authentication.
-
----
-
-### [CodeZ](https://github.com/Prateek1771/codeZ.git)
-AI-powered coding assistant:
-- Provides real-time **code generation, debugging, and optimization**.
-- Integrated **Google OAuth** for secure authentication.
-
----
-
-### [CodeSensei](https://github.com/Prateek1771/codeSensei.git)
-AI-driven code reviewer:
-- Detects vulnerabilities, analyzes quality, and suggests optimizations.
-- Reduced manual review time by **50%**.
-
----
-
-### [Multimode AI Agent](https://github.com/Prateek1771/MultiMode-Chatbot.git)
-AI chatbot with **Text Mode**, **Voice Mode**, and **Build Mode**:
-- Integrated speech recognition and TTS for seamless voice interaction.
-- Optimized for real-time performance using multithreading.
-
----
-
 ## 🏆 Achievements
-- 🥇 Represented **Coorg Institute of Technology** at major hackathons including **JITHack-24**.  
+- 🥇 Represented **Coorg Institute of Technology** at multiple major hackathons including **JITHack-24**, Flipkart.  
 - 📄 Presented a **research paper** on *AI Automated Cleanroom*.  
 - 🎓 Certified in **Generative AI by Oracle**.
 
