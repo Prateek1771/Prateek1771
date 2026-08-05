@@ -7,7 +7,7 @@
 ## 🌐 Let's Connect
 - 📧 Email: [hitliprateek6@gmail.com](mailto:hitliprateek6@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/prateek-hitli](https://www.linkedin.com/in/prateek-hitli-04017b258/)  
-- 🌍 Portfolio: [prateekhitli.com](https://prateekhitli.com/)  
+- 🌍 Portfolio: [prateekhitli.dev](https://prateekhitli.dev/)  
 - 🐙 GitHub: [github.com/Prateek1771](https://github.com/Prateek1771)
 
 ---
