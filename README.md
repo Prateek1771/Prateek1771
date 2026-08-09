@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prateek Hitli
 
-💻 **AI-Full-Stack Developer** | 🤖 **AI & Machine Learning Enthusiast** | 🚀 Currently learning and building scalable, user-friendly web applications with AI and integrating intelligent AI-driven features.
+💻 **Full-Stack Developer** | 🤖 **AI & Machine Learning Enthusiast** | 🚀 Currently learning and building scalable, user-friendly web applications with AI and integrating intelligent AI-driven features.
 
 ---
 
